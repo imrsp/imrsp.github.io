@@ -11,10 +11,12 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
+  网盘: '//cos.rspstudio.cn'
+  工作室主页: '//www.rspstudio.cn'
 
 # Footer
 footer:
-  since: 2013-2018
+  since: 2013
 
 # Author 配置博主信息
 author: '饶斯鹏'
@@ -49,9 +51,9 @@ postPatterns: 'food'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: 'i@rspstudio.cn'
-  twitter: '@CN_RSP_STUDIO'
-  facebook: 'Monica Rao'
+  email: '//i@rspstudio.cn'
+  twitter: '//@CN_RSP_STUDIO'
+  facebook: '//Monica Rao'
   github: '//www.rspstudio.cn'
 
 # Tags 设置标签
