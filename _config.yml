@@ -11,6 +11,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
+  acg: 'http://acg.rspstudio.cn'
   cos: 'http://cos.rspstudio.cn'
   studio: 'http://www.rspstudio.cn'
 
