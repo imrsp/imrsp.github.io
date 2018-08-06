@@ -2,7 +2,7 @@
 title: '浣花小妹妹的个人博客'
 description: '昵称浣花，开发者/音乐人/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: '浣花,浣花小妹妹的博客,NOIP,C++,开发,音乐,摄影,设计'
-url: 'http://rsp.ink' # your host
+url: 'https://rsp.ink' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -11,9 +11,10 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
-  acg: 'http://acg.rspstudio.cn'
-  cos: 'http://nav.rsp.ink'
-  studio: 'http://www.rspstudio.cn'
+  nav: 'https://nav.rsp.ink'
+  acg: 'https://acg.rspstudio.cn'
+  cos: 'https://cos.nav.rsp.ink'
+  studio: 'https://www.rspstudio.cn'
 
 # Footer
 footer:
@@ -52,10 +53,10 @@ postPatterns: 'food'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  twitter: 'http://www.rspstudio.cn/connect'
-  instagram: 'http://www.rspstudio.cn/connect'
-  facebook: 'http://www.rspstudio.cn/connect'
-  github: 'http://www.rspstudio.cn/connect'
+  twitter: 'https://www.rspstudio.cn/connect'
+  instagram: 'https://www.rspstudio.cn/connect'
+  facebook: 'https://www.rspstudio.cn/connect'
+  github: 'https://www.rspstudio.cn/connect'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
