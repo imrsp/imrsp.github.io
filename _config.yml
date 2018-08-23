@@ -1,6 +1,6 @@
 # Site settings 配置站点
 title: '浣花小妹妹的个人博客'
-description: '昵称浣花，开发者/音乐人/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
+description: '昵称浣花，开发者/投资人/音乐人/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: '浣花,浣花小妹妹的博客,NOIP,C++,开发,音乐,摄影,设计'
 url: 'https://rsp.ink' # your host
 
@@ -23,7 +23,7 @@ footer:
 # Author 配置博主信息
 author: '浣花小妹妹'
 nickname: '浣花'
-bio: '开发者，音乐人，灵魂摄影，热爱技术&设计，喜欢紫涵，简单乐观爱创造'
+bio: '开发者，投资人，音乐人，灵魂摄影，热爱技术&设计，简单乐观爱创造'
 avatar: '/assets/img/profile.png'
 
 # Search
