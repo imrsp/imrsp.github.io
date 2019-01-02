@@ -11,7 +11,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
-  nav: 'https://nav.rsp.ink'
+  nav: 'https://product.rsp.ink'
   acg: 'https://monimoe.cn'
   cos: 'https://cos.nav.rsp.ink'
   studio: 'https://www.rspstudio.cn'
